@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at thdonadkar413@email.com.
+If you have any questions or suggestions, feel free to contact me at vaibhavsmane36@gmail.com
