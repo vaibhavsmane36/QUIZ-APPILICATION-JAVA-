@@ -14,7 +14,7 @@ A simple quiz application built in Java to practice creating graphical user inte
 
 Follow these steps to run the quiz application on your local machine:
 
-1. Clone the repository: `git clone https://github.com/thdonadkar/Quiz-Application.git`
+1. Clone the repository: `git clone https://github.com/vaibhavsmane36/Quiz-Application.git`
 2. Compile the Java files: `javac QuizApp.java`
 3. Run the application: `java QuizApp`
 4. Answer the questions within the 15-second time limit.
